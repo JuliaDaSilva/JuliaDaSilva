@@ -1,9 +1,10 @@
-<h3 align="center">Hey, I'm Julia Da Silva (She/Her) 👋</h3>
+<h1 align="center">Hey, I'm Julia Da Silva (She/Her) 👋</h1>
 
-<p align="center">
-  I'm a second-year computer science student at York University. <br>
-  Don't hesitate to reach out!
-</p>
+<h2 align="center">
+  I'm a second-year computer science student at York University📚📚
+</h2>
+
+<h3 align="center"> Don't hesitate to reach out!</h3>
 
 <p align="center">
   <!-- LinkedIn Badge -->
