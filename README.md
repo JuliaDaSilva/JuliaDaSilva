@@ -16,6 +16,6 @@
 
 <h3>Stats!</h3>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=JuliaDaSilva&show_icons=true&theme=tokyonight">
 </p>
