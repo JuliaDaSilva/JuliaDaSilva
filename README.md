@@ -6,13 +6,24 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juliapereiradasilva/?originalSubdomain=ca" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white">
+  
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/juliapereiradasilva/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://juliadasilva.me/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Personal Website-%231DA1F2?style=flat&logo=firefox&logoColor=white">
+  
+  <!-- Personal Website Badge -->
+  <a href="https://juliadasilva.me/">
+    <img alt="Personal Website" src="https://img.shields.io/badge/Website-1DA1F2?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
+  
+  <!-- Email Badge -->
+  <a href="mailto:julia6pds@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  
 </p>
+
 
 <h3 align="center">Stats!</h3>
 
