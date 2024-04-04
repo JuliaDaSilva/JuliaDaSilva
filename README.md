@@ -4,6 +4,12 @@
   I'm a second-year computer science student at York University📚📚
 </h2>
 
+<h3 align="center">Stats!</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuliaDaSilva&show_icons=true&theme=tokyonight">
+</p>
+
 <h3 align="center"> Don't hesitate to reach out!</h3>
 
 <p align="center">
@@ -21,10 +27,4 @@
   <a href="mailto:julia6pds@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<h3 align="center">Stats!</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuliaDaSilva&show_icons=true&theme=tokyonight">
 </p>
