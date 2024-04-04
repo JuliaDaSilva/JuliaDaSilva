@@ -1,11 +1,11 @@
-<h3 align="center">Hey, I'm Julia Da Silva (She/Her) 👋</h3>
+<h3>Hey, I'm Julia Da Silva (She/Her) 👋</h3>
 
-<p align="center">
+<p>
   I'm a second-year computer science student at York University. <br>
   Don't hesitate to reach out!
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/juliapereiradasilva/?originalSubdomain=ca" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
