@@ -7,4 +7,5 @@ Don't hesitate to reach out!
 - [Personal Website (in progress lol)](https://juliadasilva.me/)
 
 Stats!
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuliaDaSilva&show_icons=true)
