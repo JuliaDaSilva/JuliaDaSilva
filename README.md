@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Julia Da Silva (She/Her) 👋</h1>
 
 <h2 align="center">
-  I'm a second-year computer science student at York University📚
+  I'm a third-year computer science student at York University📚
 </h2>
 
 <h3 align="center"> -- Don't hesitate to reach out -- </h3>
