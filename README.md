@@ -7,10 +7,6 @@
 <h3 align="center"> -- Don't hesitate to reach out -- </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuliaDaSilva&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
   <!-- Personal Website Badge -->
   <a href="https://juliadasilva.me/">
     <img alt="Personal Website" src="https://img.shields.io/badge/Website-1DA1F2?style=flat-square&logo=google-chrome&logoColor=white" />
