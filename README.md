@@ -1,20 +1,10 @@
 ![Header Image](header.png)
 
-<h3 align="center"> -- Don't hesitate to reach out -- </h3>
+<h3 align="center">Don't hesitate to reach out</h3>
 
 <p align="center">
-  <!-- Personal Website Badge -->
-  <a href="https://juliadasilva.me/">
-    <img alt="Personal Website" src="https://img.shields.io/badge/Website-1DA1F2?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a>
-
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/juliapereiradasilva/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- Email Badge -->
-  <a href="mailto:julia6pds@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/julia-da-silva-9a2b25242/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a><!-- Email Badge -->
+  <a target="_blank" href="mailto:julia6pds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+ 
 </p>
