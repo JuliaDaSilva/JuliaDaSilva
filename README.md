@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I'm Julia Da Silva (She/Her) 👋</h1>
+![](https://raw.githubusercontent.com/JuliaDaSilva/main/header.png)
 
 <h2 align="center">
   I'm a third-year computer science student at York University📚
