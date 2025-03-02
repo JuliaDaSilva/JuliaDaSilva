@@ -1,6 +1,5 @@
 ![Header Image](header.png)
 
----
 ## About Me 😋
 
 - 🎓 **Computer Science Major** at York University (3rd Year)  
